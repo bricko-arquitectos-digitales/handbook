@@ -1,7 +1,7 @@
 # Handbook
 En este hanbdbook encontrarás la descripción de nuestra ideología y metodologías que nos hacen funcionar como Bricko.
 
-Las reglas en esta guia han sido escritas para ayudarnos, mas allá de ser reglas abosolutas, son reglas que nos guían en como hacer las cosas, si alguien en algún momento rompe alguna de estas reglas, cualquier persona del equipo puede recordarselas amablemente, y si llegará a haber alguna discusión en cuanto a la interpretación de las mismas, se puede escalar el tema con el management sin repercusión alguna. Este es un equipo de iguales con actividades y funciones diferentes.
+Las reglas en esta guia han sido escritas para ayudarnos, mas allá de ser reglas abosolutas, son reglas que nos guían en como hacer las cosas, si alguien en algún momento rompe alguna de estas reglas, cualquier persona del equipo puede recordarselas amablemente, y si llegará a haber alguna discusión en cuanto a la interpretación de las mismas, se puede escalar el tema con el management sin repercusión alguna. ***Este es un equipo de iguales con actividades y funciones diferentes.***
 
 *Nota: cualquier miembro del equipo puede sugerir cambios mediante un merge request o issues de este documento.*
 
