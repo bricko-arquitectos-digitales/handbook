@@ -39,6 +39,7 @@ Somos un equipo ágil y distribuido, dónde nuestros colaboradores pueden hacer 
 Puedes utilizar el **Editor de Código** que mejor te acomode, siempre que respetes el Postulado de esta sección.
 
 **Open Project** es nuestra herramienta de control de proyectos, la cúal está disponible en https://proyectos.bricko.com.mx
+
 **GIT**... obvio por cómo has encontrado este handbook.
 
 
