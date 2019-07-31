@@ -29,8 +29,11 @@ Somos un equipo ágil y distribuido, dónde nuestros colaboradores pueden hacer 
 **Postulado**: *Ten en mente que, siendo un equipo que busca conocimiento en la red, creemos en apoyar las herramientas que impulsan ese conocimiento, por lo que damos preferencia a las herramientas con licencia Open Source o similares, considera esto antes de instalar un paquete que te ayude en tus tareas.*
 
 **Google Apps** es nuestra paquetería oficial para documentación y comunicación, evita utilizar archivos off line u otros medios para tratar temas relacionados a nuestros proyectos. Nuestro grupo de whatsapp es para comunicación general y de convivencia.
+
 **Docker** es necesario para poder realizar nuestros desarrollos de software, puedes tener el sistema operativo que mejor te acomode en tu equipo, pero debes tomar en cuenta que corre de tu lado investigar como hacer que Docker funcione en él en caso de que el equipo no tenga experiencia en su instalación.
+
 Puedes utilizar el **Editor de Código** que mejor te acomode, siempre que respetes el Postulado de esta sección.
+
 **Open Project** es nuestra herramienta de control de proyectos, la cúal está disponible en https://proyectos.bricko.com.mx
 GIT... obvio por cómo has encontrado este handbook.
 
