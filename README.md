@@ -6,7 +6,7 @@ Las reglas en esta guia han sido escritas para ayudarnos, mas allá de ser regla
 *Nota: cualquier miembro del equipo puede sugerir cambios mediante un merge request o issues de este documento.*
 
 ![](https://avatars1.githubusercontent.com/u/53535603?s=200&v=4)
-------------
+
 ## Nuestros Valores
 
 Todo el team de Bricko debe tener en cuenta el acrónimo **RICER** (*Resultados, Iteración, Colaboración, Eficiencia y Respeto*).
@@ -22,12 +22,12 @@ No pensamos en volver nuestras tareas en labores repetitivas, sino de atomizar n
 Te elegimos para ser parte de nuestro equipo, por que estamos seguros que tus características personales y habilidades te harán crecer y por consiguiente, al equipo... Demuestra que estamos en lo correcto!
 
 
-------------
+
 ## Comunicación
 
 Somos un equipo ágil y distribuido, dónde nuestros colaboradores pueden hacer trabajo remoto con previo acuerdo y dónde todos aportamos a la mejora de procesos y resolución de proyectos. Para ello, la mayor parte del tiempo, utilizamos la comunicación asíncrona (chats y correos) con reuniones presenciales o remotas que guían los temas del día a día, haciendo hincapié en asegurar que las conclusiones de las conversaciones sin conexión se trasladen a algún medio digital.
 
-------------
+
 ## Herramientas
 
 **Postulado**: *Ten en mente que, siendo un equipo que busca conocimiento en la red, creemos en apoyar las herramientas que impulsan ese conocimiento, por lo que damos preferencia a las herramientas con licencia Open Source o similares, considera esto antes de instalar un paquete que te ayude en tus tareas.*
@@ -41,12 +41,12 @@ Puedes utilizar el **Editor de Código** que mejor te acomode, siempre que respe
 **Open Project** es nuestra herramienta de control de proyectos, la cúal está disponible en https://proyectos.bricko.com.mx
 GIT... obvio por cómo has encontrado este handbook.
 
-------------
+
 ## Modo de trabajo
 
 Bricko es un equipo **ágil y agile**, por lo que nuestro marco de trabajo está derivado de **SCRUM**, poco a poco conocerás las tropicalizaciones que hemos aplicado al framework base y, como en todos los temas de este handbook, puedes ayudar a mejorar nuestros procesos.
 
-------------
+
 ## Lineamientos de Códificación
 
 - Tabuladores, no espacios.
@@ -57,14 +57,14 @@ Bricko es un equipo **ágil y agile**, por lo que nuestro marco de trabajo está
 - Comenta lo mejor que puedas tus commits.
 - Haz visible tu trabajo, documentando en Open Project el avance y tiempo utilizado en tus tareas.
 
-------------
+
 ## Comparte Conocimiento
 
 A este equipo le gusta aprender, por lo que es indispensable compartir conocimiento, entre más habilidades desarrollemos, mejor personas seremos. Para esto tenemos dos modos de aportar:
 - Busca una hora disponible en nuestros calendarios y propón un tema, seguramente recibirás un Acepto a tu invitación o una fecha y hora más adecuada para el resto del equipo. Ojo, el tema no necesariamente puede ser de lo que tu domines, si no de lo que quieres aprender de alguien más, sólo se específico en la invitación.
 - Aporta en nuestro blog. Todos buscamos información en la red, bueno, si tomamos hay que aportar. Si quieres escribir sobre algo relacionado a nuestras actividades ponte en contácto con el administrador del blog para redactar tu post. En todo caso, no te preocupes, en algún momento serás contactado por él para que lo hagas, pues todos en el equipo en algún momento redactaremos algo.
 
-------------
+
 ## Horarios y vacaciones
 
 Somos muy flexibles al respecto, no creemos en la burocracia de esperar a cierto tiempo o cubrir con horas no productivas. Eso si, basamos nuestras actividades en días de 8 horas, pero, si cubres tus tareas en menos, puedes usar el resto del tiempo como mejor te parezca, recuerda que medimos resultados.
@@ -73,5 +73,5 @@ En cuanto a vacaciones basta con que lo hables con tu equipo de trabajo, para sa
 
 *Te queremos descansado y animado para que des lo mejor de ti.*
 
-------------
+
 ## Miscelanea
