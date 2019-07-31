@@ -5,6 +5,7 @@ Las reglas en esta guia han sido escritas para ayudarnos, mas allá de ser regla
 
 *Nota: cualquier miembro del equipo puede sugerir cambios mediante un merge request o issues de este documento.*
 
+![](https://avatars1.githubusercontent.com/u/53535603?s=200&v=4)
 ------------
 ## Nuestros Valores
 
