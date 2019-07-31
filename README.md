@@ -67,8 +67,10 @@ A este equipo le gusta aprender, por lo que es indispensable compartir conocimie
 ## Horarios y vacaciones
 
 Somos muy flexibles al respecto, no creemos en la burocracia de esperar a cierto tiempo o cubrir con horas no productivas. Eso si, basamos nuestras actividades en días de 8 horas, pero, si cubres tus tareas en menos, puedes usar el resto del tiempo como mejor te parezca, recuerda que medimos resultados.
+
 En cuanto a vacaciones basta con que lo hables con tu equipo de trabajo, para saber que no les causaras atraso en alguna entrega y cerrar las fechas con el managment.
-Te queremos descansado y animado para que des lo mejor de ti.
+
+*Te queremos descansado y animado para que des lo mejor de ti.*
 
 ------------
 ## Miscelanea
