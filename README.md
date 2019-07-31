@@ -51,6 +51,7 @@ Bricko es un equipo **ágil y agile**, por lo que nuestro marco de trabajo está
 ## Lineamientos de Códificación
 
 - Tabuladores, no espacios.
+- Camel case obligatorio.
 - Si trabajamos sobre un software ya avanzado, utiliza el idioma del mismo para nombrar clases, funciones y variables. Si es un software nuevo, podemos utilizar el español para este nombrado. En cualquier caso no mezclaremos idiomas.
 - Documenta cada función, no pedimos demasiado, aún si crees que el nombre de esta es suficientemente claro, agrega una línea de comentario que explique para que és, a veces hasta tres palabras bastan.
 - Reutiliza. Antes de quebrarte la cabeza para resolver una tarea, pregunta al equipo si se ha hecho algo similar y aprovecha el código previamente utilizado.
