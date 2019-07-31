@@ -11,10 +11,13 @@ Las reglas en esta guia han sido escritas para ayudarnos, mas allá de ser regla
 Todo el team de Bricko debe tener en cuenta el acrónimo **RICER** (*Resultados, Iteración, Colaboración, Eficiencia y Respeto*).
 Palabras que hemos convertido en valores en los que creemos y que sabemos que nos darán resultados de manera interna para lograr el éxito de manera externa.
 - RESULTADOS
+
 Medimos resultados, no las horas que dedicaste o el tiempo conectado durante un fin de semana, las horas nalga no nos dicen nada.
 - ITERACIÓN
+
 No pensamos en volver nuestras tareas en labores repetitivas, sino de atomizar nuestros códigos y procesos de tal modo que podamos reutilizar elementos específicos en nuevos proyectos.
 - COLABORACIÓN, EFICIENCIA Y RESPETO
+
 Te elegimos para ser parte de nuestro equipo, por que estamos seguros que tus características personales y habilidades te harán crecer y crecer al equipo... Demuestra que estamos en lo correcto!
 
 
